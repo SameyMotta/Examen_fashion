@@ -1,0 +1,31 @@
+{
+  "name": "fashion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://SameyMotta@github.com/SameyMotta/Fashion.git"
+  },
+  "author": "Sara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SameyMotta/Fashion/issues"
+  },
+  "homepage": "https://github.com/SameyMotta/Fashion#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.1"
+  },
+  "dependencies": {
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.1"
+  }
+}
